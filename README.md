@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @EastCation 您好，我是辉夜星瞳（Starmoe-Lences）
+- 👋 Hi, I’m @EastCation 您好，我是辉夜星瞳（Starmoe）
 - 👀 I’m interested in Minecraft 最近在玩Minecraft
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Stardust  不用说了，星尘是我姐姐！！！
+- 💞️ I’m looking to collaborate on FireFly  流萤，流萤，流萤！
 - 📫 Please send the email to x123451970@outlook.com
 
 <!---
