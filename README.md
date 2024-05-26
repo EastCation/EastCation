@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 ## 其他信息/Other Information
 
 [个人网站/Personal Website](https://eastcation.github.io/)
+
+If you want to make Chinese translation for your Minecraft Java mod, feel free to send me a mail!
