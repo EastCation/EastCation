@@ -13,3 +13,5 @@ You can click the Preview link to take a look at your changes.
 [个人网站/Personal Website](https://eastcation.github.io/)
 
 If you want to make Chinese translation for your Minecraft Java mod, feel free to send me a mail!
+
+我是中国大陆Minecraft玩家，目前*仅翻译简体中文*，其他语言不予支持。
