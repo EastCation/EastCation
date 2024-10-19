@@ -1,6 +1,5 @@
-<div align="center">
-<img src="https://s2.loli.net/2022/03/19/27N5qgtQWR3JXpm.png" align="center" style="width: 100%" />
-</div>  
+![2024-10-14_19 06 47](https://github.com/user-attachments/assets/191627dc-161d-4522-bcb6-802cf6793ec2)
+
   
 
 ### <div align="center">I'm Starmoe, a Minecraft resourcepack owner and modpack translator</div>  
