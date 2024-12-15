@@ -1,6 +1,5 @@
-![2024-10-14_19 06 47](https://github.com/user-attachments/assets/191627dc-161d-4522-bcb6-802cf6793ec2)
+![image](https://files.moerain.cn/f/N5cN/7e8b4ac8ly1fwiffi0wchj23vc2kw7wk.jpg)
 
-  
 
 ### <div align="center">I'm Starmoe, a Minecraft resourcepack owner and modpack translator</div>  
   
