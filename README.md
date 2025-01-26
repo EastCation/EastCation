@@ -18,8 +18,6 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=EastCation" />
 </div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eastcation&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=EastCation&theme=minimal" />
